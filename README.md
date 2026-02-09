@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Janany-J/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Janany-J/Leetcode_solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
