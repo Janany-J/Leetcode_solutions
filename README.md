@@ -28,4 +28,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Janany-J/Leetcode_solutions/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Janany-J/Leetcode_solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
