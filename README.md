@@ -46,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janany-J/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0459-repeated-substring-pattern](https://github.com/Janany-J/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janany-J/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Janany-J/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
