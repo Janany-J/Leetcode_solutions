@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Janany-J/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
