@@ -65,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
