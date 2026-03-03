@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janany-J/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0459-repeated-substring-pattern](https://github.com/Janany-J/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Janany-J/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Sliding Window
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
