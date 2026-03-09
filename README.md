@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Janany-J/Leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Janany-J/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Janany-J/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Janany-J/Leetcode_solutions/tree/master/0050-powx-n) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
