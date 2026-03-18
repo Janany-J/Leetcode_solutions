@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/Janany-J/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 ## Backtracking
 |  |
 | ------- |
