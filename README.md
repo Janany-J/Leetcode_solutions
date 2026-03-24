@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Janany-J/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Janany-J/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Janany-J/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Janany-J/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Janany-J/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
