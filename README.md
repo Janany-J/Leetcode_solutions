@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janany-J/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Janany-J/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Janany-J/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1143-longest-common-subsequence](https://github.com/Janany-J/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Janany-J/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Janany-J/Leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
