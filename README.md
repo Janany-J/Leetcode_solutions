@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Janany-J/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/Janany-J/Leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Janany-J/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Janany-J/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Janany-J/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Janany-J/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Janany-J/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Janany-J/Leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
