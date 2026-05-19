@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Janany-J/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Janany-J/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Janany-J/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Janany-J/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
