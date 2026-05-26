@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Janany-J/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Janany-J/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Janany-J/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Sorting
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Janany-J/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Janany-J/Leetcode_solutions/tree/master/1143-longest-common-subsequence) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
