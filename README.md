@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Janany-J/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Janany-J/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2951-find-the-peaks](https://github.com/Janany-J/Leetcode_solutions/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Janany-J/Leetcode_solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
