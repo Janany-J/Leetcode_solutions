@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Janany-J/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Janany-J/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
