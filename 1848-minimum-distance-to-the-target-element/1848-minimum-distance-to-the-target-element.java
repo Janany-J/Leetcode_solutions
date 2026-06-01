@@ -3,7 +3,7 @@ class Solution {
        int min_distance = Integer.MAX_VALUE;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==target){
-            int distance = Math.min(min_distance,Math.abs(i-start));
+            int distance = Math.abs(i-start);
             if(distance < min_distance){
                 min_distance=distance;
             }
