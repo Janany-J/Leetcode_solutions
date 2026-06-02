@@ -6,6 +6,9 @@ class Solution {
             min = Math.min(min,num);
             max = Math.max(max,num);
         }
+        return gcd(min,max);
+    }
+    public static int gcd(int min,int max){
         while(max != 0){
             int temp = max;
             max = min % max;
