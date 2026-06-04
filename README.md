@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Janany-J/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Janany-J/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Janany-J/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Janany-J/Leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Janany-J/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Memoization
 |  |
