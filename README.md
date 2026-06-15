@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0896-monotonic-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Janany-J/Leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Janany-J/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Janany-J/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
