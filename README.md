@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Janany-J/Leetcode_solutions/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/Janany-J/Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Janany-J/Leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Janany-J/Leetcode_solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
