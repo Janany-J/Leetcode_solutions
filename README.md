@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Janany-J/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Janany-J/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Janany-J/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0507-perfect-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Janany-J/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Janany-J/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Janany-J/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Janany-J/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Janany-J/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Janany-J/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Janany-J/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Janany-J/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Janany-J/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/Janany-J/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0868-binary-gap](https://github.com/Janany-J/Leetcode_solutions/tree/master/0868-binary-gap) |
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Janany-J/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Janany-J/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Janany-J/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Janany-J/Leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 ## Memoization
