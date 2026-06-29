@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Janany-J/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Janany-J/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Janany-J/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janany-J/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Janany-J/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/Janany-J/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Janany-J/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Janany-J/Leetcode_solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Janany-J/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Janany-J/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
