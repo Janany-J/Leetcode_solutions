@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Janany-J/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Janany-J/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Janany-J/Leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Janany-J/Leetcode_solutions/tree/master/0507-perfect-number) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Janany-J/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Janany-J/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Janany-J/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Matrix
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Janany-J/Leetcode_solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Janany-J/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Tree
 |  |
